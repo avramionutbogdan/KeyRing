@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KeyRing</string>
+    <string name="title_section1" />
+    <string name="title_section2" />
+    <string name="title_section3" />
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
